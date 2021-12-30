@@ -5,4 +5,5 @@ expose:
   type: nodePort
   key: NNZMGN44O7RWJ19BR1CL
   url: https://hooks.slack.com/services/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
+  url2: https://hooks.slack.com/services/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
 
