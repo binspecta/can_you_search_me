@@ -5,3 +5,4 @@ expose:
   type: nodePort
   key: CANYOUREALLYFINDME
   url2: https://hooks.slack.com/services/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
+  
